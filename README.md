@@ -9,7 +9,7 @@
 # Stuff i use
 <a><img draggable="false" alt="C#" src="img/csharp.png" height="60px" width="60px">
 <img draggable="false" alt=".NET Core" src="img/dotnet.png" height="60px" width="60px">
-<img draggable="false" alt="Docker" src="img/docker.png" height="60px" width="60px">
+<img draggable="false" alt="Docker" src="img/docker1.png" height="60px" width="60px">
 <img draggable="false" alt="Proxmox VE" src="img/proxmox.png" height="60px" width="60px">
 <img draggable="false" alt="Firefox" src="img/firefox.png" height="60px" width="60px">
 <img draggable="false" alt="1Password" src="img/1password.png" height="60px" width="60px">
