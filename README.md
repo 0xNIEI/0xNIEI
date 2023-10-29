@@ -7,7 +7,7 @@
 - 🫡 Jr. Sysadmin @ ***Besti Transport Firma i de Schwiiz™***
 
 # Stuff i use
-[<img draggable="false" alt="C#" src="img/csharp.png" height="60px" width="60px">](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img draggable="false" alt="C#" src="img/csharp.png" height="60px" width="60px" target="_blank">](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img draggable="false" alt=".NET Core" src="img/dotnet.png" height="60px" width="60px">](https://dotnet.microsoft.com/en-us/)
 [<img draggable="false" alt="Docker" src="img/docker1.png" height="60px" width="60px">](https://www.docker.com/)
 [<img draggable="false" alt="Proxmox VE" src="img/proxmox.png" height="60px" width="60px">](https://proxmox.com/en/)
