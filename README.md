@@ -11,6 +11,7 @@
 [<img draggable="false" alt=".NET Core" src="img/dotnet.png" height="60px" width="60px">](https://dotnet.microsoft.com/en-us/)
 [<img draggable="false" alt="Visual Studio" src="img/vs.png" height="60px" width="60px">](https://visualstudio.microsoft.com/)
 [<img draggable="false" alt="Visual Studio Code" src="img/vscode.png" height="60px" width="60px">](https://code.visualstudio.com/)
+[<img draggable="false" alt="neovim" src="img/neovim.png" height="60px" width="60px">](https://neovim.io/)
 [<img draggable="false" alt="Docker" src="img/docker1.png" height="60px" width="60px">](https://www.docker.com/)
 [<img draggable="false" alt="Proxmox VE" src="img/proxmox.png" height="60px" width="60px">](https://proxmox.com/en/)
 [<img draggable="false" alt="Windows 11" src="img/windows11.png" height="60px" width="60px">](https://www.microsoft.com/de-de/software-download/windows11)
