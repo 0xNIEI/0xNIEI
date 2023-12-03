@@ -1,4 +1,4 @@
-[<img draggable="false" alt="Nico Eicher" src="img/header.png" width="100%">](https://eicher.tech)
+[<img draggable="false" alt="NIEI" src="img/header.png" width="100%">](https://niei.net)
 
 # About me
 - 👨‍💻 I love **C#**
