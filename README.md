@@ -15,6 +15,7 @@
 [<img draggable="false" alt="Docker" src="img/docker1.png" height="60px" width="60px">](https://www.docker.com/)
 [<img draggable="false" alt="Proxmox VE" src="img/proxmox.png" height="60px" width="60px">](https://proxmox.com/en/)
 [<img draggable="false" alt="Windows 11" src="img/windows11.png" height="60px" width="60px">](https://www.microsoft.com/de-de/software-download/windows11)
+<br>
 [<img draggable="false" alt="Debian" src="img/debian.png" height="60px" width="60px">](https://www.debian.org/)
 [<img draggable="false" alt="Ubuntu Server" src="img/ubuntu.png" height="60px" width="60px">](https://ubuntu.com/server)
 [<img draggable="false" alt="Brave Browser" src="img/brave.png" height="60px" width="60px">](https://brave.com/)
