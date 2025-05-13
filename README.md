@@ -3,7 +3,6 @@
 # About me
 - 👨‍💻 I love **C#**
 - 🛠️ I love **.NET Core**
-- 🏢 I love **Microsoft**
 - 🫡 Jr. Sysadmin @ ***Besti Transport Firma i de Schwiiz™***
 
 # Stuff i use
