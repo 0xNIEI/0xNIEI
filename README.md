@@ -3,7 +3,7 @@
 # About me
 - ❤️ I am passionate about IT
 - 🧑‍💻 Junior Systems Specialist @ [Galliker Transport AG](https://www.galliker.com)
-- 🫡 Currently serving in the [Swiss Armed Forces](httpss://armee.ch)
+- 🫡 Currently serving in the [Swiss Armed Forces](https://armee.ch)
 
 # Stuff i use
 [<img draggable="false" alt="C#" src="img/csharp.png" height="60px" width="60px">](https://learn.microsoft.com/en-us/dotnet/csharp/)
